@@ -1,6 +1,4 @@
-![Iceberg](iceberg-2070977_640.png) 
-
-## ¡Hi! Nice to meet you 💛
+## <img src="daisy-25628_640.png" alt="flor" width="50" height="55">  ¡Hi! Nice to meet you 💛
 This is my favorite space and you are Welcome here 💻
 
 ## Languages
