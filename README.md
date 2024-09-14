@@ -1,5 +1,4 @@
-## <img src="github-header-image.png" alt="flor" width="400" height="250"> 
-This is my favorite space and you are Welcome here 💻
+## <img src="bigdata.png" alt="flor" width="1500" height="250"> WELCOME TO MY WORSPACE!!!
 
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -60,9 +59,6 @@ En mis redes sociales tambien puedes encontrarme y escribirme al DM que con gust
 
 
 ## CHANNELS IN YOUTUBE
-### <img src="LOGO LISTO.png" alt="flor" width="30" height="40"> Your Medic
-### <img src="Captura de pantalla 2024-09-11 090537.png" alt="flor" width="60" height="40"> Kamart en facetas
-### <img src="LOGO.png" alt="flor" width="30" height="40"> Aula 7
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![precision medicine #anatomy #semiologia #semiology](https://ytcards.demolab.com/?id=VqWc7qZFyv4&title=precision+medicine+%23anatomy+%23semiologia+%23semiology&lang=en&timestamp=1725734517&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "precision medicine #anatomy #semiologia #semiology")](https://www.youtube.com/watch?v=VqWc7qZFyv4)
