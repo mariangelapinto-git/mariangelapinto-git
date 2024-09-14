@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  build: youtube-cards
     runs-on: ubuntu-latest
     # Allow the job to commit to the repository
     permissions:
@@ -16,3 +16,5 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCipSxT7a3rn81vGLw9lqRkgUCKdQsIxFPr4Huz29FUvcEGw
+          - run: echo OUTPUT '${{ steps.youtube-cards.outputs.markdown }}'
+        shell: bash
