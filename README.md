@@ -42,7 +42,7 @@ Procuro seguir actualizando mis conocimientos para poder dedicarme al:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<img src="portada.jpg" alt="flor" width="1500" height="150"> 
+<img src="portada.jpg" alt="flor" width="1500" height="500"> 
 
 ## Social Media
 ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
