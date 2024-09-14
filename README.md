@@ -1,4 +1,4 @@
-## <img src="daisy-25628_640.png" alt="flor" width="50" height="55">  ¡Hi! Nice to meet you 💛
+## <img src="github-header-image.png" alt="flor" width="400" height="250"> 
 This is my favorite space and you are Welcome here 💻
 
 ## Languages
