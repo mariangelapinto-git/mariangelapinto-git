@@ -58,3 +58,10 @@ En mis redes sociales tambien puedes encontrarme y escribirme al DM que con gust
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 
+
+## CHANNELS IN YOUTUBE
+### <img src="LOGO LISTO.png" alt="flor" width="30" height="40"> Your Medic
+### <img src="Captura de pantalla 2024-09-11 090537.png" alt="flor" width="60" height="40"> Kamart en facetas
+### <img src="LOGO.png" alt="flor" width="30" height="40"> Aula 7
+
+
