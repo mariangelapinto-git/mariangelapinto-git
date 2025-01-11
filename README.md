@@ -1,4 +1,4 @@
-## <img src="bigdata.png" alt="flor" width="1500" height="350"> WELCOME TO MY WORSPACE!!!
+## <img src="Blue and White Elegant Business Card.jpg" alt="flor" width="1500" height="350"> WELCOME TO MY WORSPACE!!!
 
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
