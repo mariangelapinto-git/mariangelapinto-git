@@ -1,4 +1,4 @@
-## <img src="Blue and White Elegant Business Card.jpg" alt="flor" width="1500" height="350"> WELCOME TO MY WORKSPACE!!!
+## <img src="mejora.png" alt="flor" width="1500" height="350"> WELCOME TO MY WORKSPACE!!!
 
 ## 🚀 Languages & Frameworks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
